@@ -1,7 +1,7 @@
 #! /bin/bash
 #cars.sh
 #Owen Walsh
-N=0
+
 while :
 do
 	echo "Press 1 to enter a new car"
